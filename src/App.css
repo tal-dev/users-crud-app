@@ -1,6 +1,14 @@
+.App {
+  padding: 10px;
+}
+
 .card {
   border: 1px solid gray;
   width: 300px;
   margin: 20px;
   padding: 5px;
+}
+
+form {
+  margin: 10px;
 }
